@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic allocation and Bubble Sort", "Dynamic allocation and Bubble Sort\Dynamic allocation and Bubble Sort.vcxproj", "{98FAB715-A941-4BE6-956A-9BAF818F23F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FAB715-A941-4BE6-956A-9BAF818F23F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98FAB715-A941-4BE6-956A-9BAF818F23F6}.Debug|Win32.Build.0 = Debug|Win32
+		{98FAB715-A941-4BE6-956A-9BAF818F23F6}.Release|Win32.ActiveCfg = Release|Win32
+		{98FAB715-A941-4BE6-956A-9BAF818F23F6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
