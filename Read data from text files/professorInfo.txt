@@ -1,0 +1,8 @@
+Name	ID  Level	Salary	Program
+Miller	199   3		60000	CS
+Bush	311   4         66000	Math
+Lewis	102   2         54000	ED
+Harris  108   3         60000   CS
+James   131   5         72000	CS
+Parker  192   2         54000   Math
+Young   188   4         66000   Math

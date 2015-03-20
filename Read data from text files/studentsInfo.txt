@@ -1,0 +1,13 @@
+Name	ID  GPA	Major	Advisor's ID
+Mike	934 3.2 CS	199
+Jason	783 2.4 Math	311
+Jack	893 2.9 ED	102
+Monica	688 3.6 CS	199
+Emory	915 3.1 CS	199
+Tracy	792 1.9 Math	102
+Carter	953 2.1 CS	102
+Harris	999 2.5 CS	108
+James	936 2.4 Math	199
+Howard	971 2.8 ED	131
+Sean	984 3.3 Math	192
+May	932 2.7 CS	192
